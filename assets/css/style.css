@@ -12,16 +12,18 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    color: greenyellow;
 }
 
 .header h1 .seo {
     color: #d9dcd6;
+    color: red;
 }
 
 .header div {
@@ -29,21 +31,24 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+    font-size: 20px; 
+ }
 
 .header div ul {
     list-style-type: none;
+    color: #7FFF00;
 }
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+    color: greenyellow;
 }
 
 p {
