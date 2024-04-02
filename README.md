@@ -19,9 +19,9 @@ Once you have it in your local repository, on your computer, you can use Visual 
 
 To see the project on the browser visit <https://michael-hellon.github.io/MOD1-Horiseon-Challenge/>.
 
-```md
-![screenshot](assets/images/screenshot.png.)
-```
+
+![screenshot](/assets/images/screenshot.png)
+
 
 ## Credits
 
