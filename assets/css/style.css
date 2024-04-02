@@ -3,6 +3,10 @@
     padding: 0;
     margin: 0;
 }
+/* 
+Group by parent - child, type (elements, ) .card together
+add comments to CSS * Application's CSS file is properly commented.
+*/
 
 body {
     background-color: #d9dcd6;
