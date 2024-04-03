@@ -38,9 +38,7 @@ MOD1-Horiseon-Challenge/
 
 To see the project on the browser visit <https://michael-hellon.github.io/MOD1-Horiseon-Challenge/>.
 
-
 ![screenshot](/assets/images/screenshot.png)
-
 
 ## Credits
 
