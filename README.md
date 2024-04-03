@@ -17,6 +17,25 @@ There are no special installation steps for this project. All you need to do is 
 
 Once you have it in your local repository, on your computer, you can use Visual Studio Code to open the folder. Then you will see the index.html, the style.css and other associated files. Then you can review the files, preview the index.html, and then open the index.html in a browser.
 
+The file tree looks like this:
+
+MOD1-Horiseon-Challenge/
+    assets/
+        css/
+            style.css
+        imgages/
+            brand-awareness.png
+            cost-management.png
+            digital-marketing-meeting.jpg
+            lead-generation.png
+            online-reputation-management.jpg
+            screenshot.png
+            search-engine-optimization.jpg
+            social-media-marketing.jpg
+    index.html
+    LICENSE
+    README.md
+
 To see the project on the browser visit <https://michael-hellon.github.io/MOD1-Horiseon-Challenge/>.
 
 
