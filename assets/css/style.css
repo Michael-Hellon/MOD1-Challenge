@@ -27,7 +27,7 @@ the font-family to be used and background color for the header  */
 header {
     display:inline-block;
     width:100%;
-    padding: 20px;
+    padding: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
 }
